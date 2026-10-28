@@ -13,7 +13,7 @@
 | Base de datos | PostgreSQL 16 en Google Cloud SQL |
 | Despliegue | Google Cloud Run: un solo servicio sirve la API y el React compilado |
 | Seguridad | Contraseñas con argon2 y sesión JWT en cookie httpOnly. Roles: administrador, trabajador y cliente |
-| Chatbot | Asistente de la plataforma Tencavox (widget web) |
+| Chatbot | Asistente de la plataforma Tencavox: configurado; falta incrustar su widget en el sitio (pendiente) |
 
 ## Correrla en local
 
